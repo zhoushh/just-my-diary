@@ -9,3 +9,7 @@ intrdocuing my record for learning Japanese...
 ## 2020-2-8 update
 
 update Japanese note
+
+## 2020-2-23
+
+update Japanese note
